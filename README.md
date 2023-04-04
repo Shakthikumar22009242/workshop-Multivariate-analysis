@@ -135,5 +135,6 @@ Non-Graphical method(correlation)
 ![WORK-7](https://user-images.githubusercontent.com/120207509/229769069-104381cd-d529-4b88-ac4c-5b3e6219547d.png)
 
 
-Result
+Result:
+
 Thus we have performed Multivariate EDA on the given data set.
